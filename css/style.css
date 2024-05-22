@@ -239,7 +239,7 @@ nav ul li a:hover{
 
 /* order Section*/
 .order{
-margin: 80px;
+margin-bottom: 80px;
 }
 .order-head{
 margin: auto;
@@ -353,6 +353,7 @@ button.prev, button.next {
   font-size: 40px;
   padding: 15px;
 }
+
 /* Footer*/
 
 .footer {
